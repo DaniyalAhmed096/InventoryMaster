@@ -1,0 +1,6 @@
+{
+  "companyName": "Inventory Master",
+  "currency": "₹",
+  "lowStockThreshold": 5,
+  "criticalStockThreshold": 2
+}

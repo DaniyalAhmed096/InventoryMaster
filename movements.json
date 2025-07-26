@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "productId": 1,
+    "type": "add",
+    "quantity": 25,
+    "date": "2023-05-15",
+    "notes": "Initial stock"
+  },
+  {
+    "id": 2,
+    "productId": 2,
+    "type": "add",
+    "quantity": 10,
+    "date": "2023-05-15",
+    "notes": "Initial stock"
+  },
+  {
+    "id": 3,
+    "productId": 3,
+    "type": "add",
+    "quantity": 20,
+    "date": "2023-05-15",
+    "notes": "Initial stock"
+  },
+  {
+    "id": 4,
+    "productId": 4,
+    "type": "add",
+    "quantity": 30,
+    "date": "2023-05-15",
+    "notes": "Initial stock"
+  },
+  {
+    "id": 5,
+    "productId": 2,
+    "type": "remove",
+    "quantity": 2,
+    "date": "2023-05-20",
+    "notes": "Sold to customer"
+  },
+  {
+    "id": 6,
+    "productId": 3,
+    "type": "add",
+    "quantity": 10,
+    "date": "2025-07-21",
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "productId": 5,
+    "type": "add",
+    "quantity": 25,
+    "date": "2025-07-21",
+    "notes": "Initial stock"
+  },
+  {
+    "id": 8,
+    "productId": 6,
+    "type": "add",
+    "quantity": 100,
+    "date": "2025-07-21",
+    "notes": "Initial stock"
+  },
+  {
+    "id": 9,
+    "productId": 7,
+    "type": "add",
+    "quantity": 50,
+    "date": "2025-07-21",
+    "notes": "Initial stock"
+  },
+  {
+    "id": 10,
+    "productId": 3,
+    "type": "add",
+    "quantity": 100,
+    "date": "2025-07-21",
+    "notes": "non"
+  },
+  {
+    "id": 11,
+    "productId": 8,
+    "type": "add",
+    "quantity": 39,
+    "date": "2025-07-21",
+    "notes": "Initial stock"
+  },
+  {
+    "id": 12,
+    "productId": 9,
+    "type": "add",
+    "quantity": 99,
+    "date": "2025-07-21",
+    "notes": "Initial stock"
+  },
+  {
+    "id": 13,
+    "productId": 3,
+    "type": "remove",
+    "quantity": 2,
+    "date": "2025-07-21T18:53:24.549Z",
+    "notes": "Sold to Daniyal (Order: ORD-1002)"
+  },
+  {
+    "id": 14,
+    "productId": 8,
+    "type": "remove",
+    "quantity": 37,
+    "date": "2025-07-21T18:55:01.974Z",
+    "notes": ""
+  },
+  {
+    "id": 15,
+    "productId": 4,
+    "type": "remove",
+    "quantity": 5,
+    "date": "2025-07-21T19:48:47.902Z",
+    "notes": "Sold to Daniyal (Order: ORD-1003)"
+  },
+  {
+    "id": 16,
+    "productId": 10,
+    "type": "add",
+    "quantity": 13,
+    "date": "2025-07-21T20:18:42.346Z",
+    "notes": "Initial stock"
+  },
+  {
+    "id": 17,
+    "productId": 4,
+    "type": "remove",
+    "quantity": 10,
+    "date": "2025-07-21T20:23:51.821Z",
+    "notes": "Sold to me (Order: ORD-1004)"
+  },
+  {
+    "id": 18,
+    "productId": 5,
+    "type": "remove",
+    "quantity": 20,
+    "date": "2025-07-21T20:27:32.530Z",
+    "notes": "Sold to someone (Order: ORD-1005)"
+  },
+  {
+    "id": 19,
+    "productId": 6,
+    "type": "remove",
+    "quantity": 50,
+    "date": "2025-07-21T20:28:27.992Z",
+    "notes": "Sold to someone (Order: ORD-1006)"
+  },
+  {
+    "id": 20,
+    "productId": 3,
+    "type": "remove",
+    "quantity": 3,
+    "date": "2025-07-21T20:29:27.580Z",
+    "notes": "Sold to Daniyal (Order: ORD-1007)"
+  },
+  {
+    "id": 21,
+    "productId": 10,
+    "type": "add",
+    "quantity": 10,
+    "date": "2025-07-21T20:32:58.458Z",
+    "notes": "Initial stock"
+  },
+  {
+    "id": 22,
+    "productId": 6,
+    "type": "add",
+    "quantity": 10,
+    "date": "2025-07-21T21:00:06.759Z",
+    "notes": ""
+  },
+  {
+    "id": 23,
+    "productId": 6,
+    "type": "add",
+    "quantity": 4,
+    "date": "2025-07-21T21:03:55.529Z",
+    "notes": ""
+  },
+  {
+    "id": 24,
+    "productId": 10,
+    "type": "add",
+    "quantity": 20,
+    "date": "2025-07-22T12:08:40.452Z",
+    "notes": "Initial stock"
+  },
+  {
+    "id": 25,
+    "productId": 10,
+    "type": "remove",
+    "quantity": 5,
+    "date": "2025-07-22T12:09:41.098Z",
+    "notes": "Sold to my me (Order: ORD-1008)"
+  },
+  {
+    "id": 26,
+    "productId": 3,
+    "type": "remove",
+    "quantity": 10,
+    "date": "2025-07-23T08:30:44.383Z",
+    "notes": "Sold to Daniyal (Order: ORD-1009)"
+  },
+  {
+    "id": 27,
+    "productId": 6,
+    "type": "remove",
+    "quantity": 30,
+    "date": "2025-07-23T08:51:16.674Z",
+    "notes": "Sold to me (Order: ORD-1010)"
+  },
+  {
+    "id": 28,
+    "productId": 11,
+    "type": "add",
+    "quantity": 10,
+    "date": "2025-07-26T11:33:26.448Z",
+    "notes": "Initial stock"
+  }
+]

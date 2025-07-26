@@ -1,0 +1,102 @@
+[
+  {
+    "id": 3,
+    "sku": "BAT-100AH",
+    "name": "100Ah Battery",
+    "category": "Batteries",
+    "stock": 110,
+    "cost": 200,
+    "price": 299.99,
+    "description": "Deep cycle solar battery"
+  },
+  {
+    "id": 4,
+    "sku": "MT-RF100",
+    "name": "Roof Mounting Kit",
+    "category": "Mounting",
+    "stock": 15,
+    "cost": 75,
+    "price": 129.99,
+    "description": "Complete roof mounting system"
+  },
+  {
+    "id": 5,
+    "sku": "SOL-300W",
+    "name": "300W Solar Panel",
+    "category": "Solar Panels",
+    "stock": 5,
+    "cost": 10,
+    "price": 12,
+    "description": "initial stock"
+  },
+  {
+    "id": 6,
+    "sku": "connectors",
+    "name": "some connectors",
+    "category": "Accessories",
+    "stock": 34,
+    "cost": 1,
+    "price": 1.5,
+    "description": ""
+  },
+  {
+    "id": 7,
+    "sku": "something new1",
+    "name": "nomething new",
+    "category": "something",
+    "stock": 50,
+    "cost": 2,
+    "price": 2.1,
+    "description": ""
+  },
+  {
+    "id": 8,
+    "sku": "SOL-200W",
+    "name": "200W Solar Panel",
+    "category": "Solar Panels",
+    "stock": 2,
+    "cost": 20,
+    "price": 25,
+    "description": "",
+    "createdAt": "2025-07-21T18:44:46.840Z",
+    "lowStockThreshold": 5,
+    "criticalStockThreshold": 2
+  },
+  {
+    "id": 9,
+    "sku": "something new2",
+    "name": "nomething new ",
+    "category": "something's brother",
+    "stock": 99,
+    "cost": 9,
+    "price": 11,
+    "description": "",
+    "createdAt": "2025-07-21T18:45:41.548Z",
+    "lowStockThreshold": 5,
+    "criticalStockThreshold": 2
+  },
+  {
+    "id": 10,
+    "sku": "something new1",
+    "name": "something cousin",
+    "category": "Solar Panels",
+    "stock": 15,
+    "cost": 11,
+    "price": 15,
+    "description": "new stock",
+    "createdAt": "2025-07-22T12:08:40.382Z"
+  },
+  {
+    "id": 11,
+    "sku": "SOL-300W",
+    "name": "300W Solar Panel",
+    "category": "Solar Panels",
+    "stock": 10,
+    "cost": 10,
+    "price": 20,
+    "description": "initial stock",
+    "createdAt": "2025-07-26T11:33:26.431Z",
+    "lowStockThreshold": 50,
+    "criticalStockThreshold": 10
+  }
+]
